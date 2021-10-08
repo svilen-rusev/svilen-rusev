@@ -4,7 +4,7 @@ My name is Svilen Rusev from Sofia,Bulgaria 🇧🇬, currently I am imporoving 
 <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/java_original_wordmark_logo_icon_146459.png" width="35"> and Spring Framework.
 
 <link rel="stylesheet" href="https://code.iconify.design/css/arty-animated.css" />
-<script src="https://code.iconify.design/1/1.0.7/iconify.min.js"></script>
+<a href="https://icons8.com/icon/ETDhNONw82Nc/java">Java icon by Icons8</a>
 
 - 🌎 Love to travel and meet new people
 - 🏀 Passionate about basketball
