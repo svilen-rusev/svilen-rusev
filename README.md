@@ -2,7 +2,7 @@
 
 <samp> My name is Svilen Rusev</samp>
 
-I am <iframe src="https://giphy.com/embed/du3J3cXyzhj75IOgvA" width="480" ></iframe>
+<samp>I'm Murillo Pezzuol and a EU-citizen, Brazilian 🇧🇷 and Italian 🇮🇹 , currently I'm a Software Engineer <img src="https://github.com/mupezzuol/mupezzuol/blob/master/assets/developer.gif" width="30px"> in London 🇬🇧 , passionate about solving problems with technology and creating different solutions.</samp><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="24">
 
 
 
