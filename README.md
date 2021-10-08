@@ -7,7 +7,7 @@ My name is Svilen Rusev from Sofia,Bulgaria 🇧🇬, currently I am imporoving 
 - 🏀 Passionate about basketball
 
 
-
+<img src="https://img.icons8.com/ios/50/000000/java-coffee-cup-logo--v2.png" width="35">
 <!--
 **svilen-rusev/svilen-rusev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 <img src="https://media4.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e477252iyfwk8r83xxiez5ymcw6zgti5n2n0q0ds6bb&rid=giphy.gif&ct=g" width="34">
