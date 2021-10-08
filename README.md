@@ -1,6 +1,6 @@
 ### Hi there 👋 
 
-My name is Svilen Rusev from Sofia,Bulgaria 🇧🇬
+My name is Svilen Rusev from Sofia,Bulgaria 🇧🇬:
 <img src="https://media4.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e477252iyfwk8r83xxiez5ymcw6zgti5n2n0q0ds6bb&rid=giphy.gif&ct=g" width="34">
 
 
