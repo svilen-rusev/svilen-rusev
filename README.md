@@ -1,7 +1,7 @@
 ### Hi there 👋 
 
 <samp> My name is Svilen Rusev</samp>
-<img src="https://media4.giphy.com/media/huyZxIJvtqVeRp7QcS/giphy.gif?cid=ecf05e475oseckkthbwzgr0a2gitn5wf0wingnwbexd5ouds&rid=giphy.gif&ct=g" width="34">
+<img src="https://media4.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e477252iyfwk8r83xxiez5ymcw6zgti5n2n0q0ds6bb&rid=giphy.gif&ct=g" width="34">
 
 
 
