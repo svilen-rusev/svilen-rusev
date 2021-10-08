@@ -1,9 +1,7 @@
 ### Hi there 👋 
 
 <samp> My name is Svilen Rusev</samp>
-
-![](http://www.reactiongifs.us/wp-content/uploads/2013/10/nuh_uh_conan_obrien.gif|width=222)
-
+<img src="https://media4.giphy.com/media/huyZxIJvtqVeRp7QcS/giphy.gif?cid=ecf05e475oseckkthbwzgr0a2gitn5wf0wingnwbexd5ouds&rid=giphy.gif&ct=g" width="24">
 
 
 
