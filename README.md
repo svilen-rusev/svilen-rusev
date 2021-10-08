@@ -2,10 +2,7 @@
 
 <samp> My name is Svilen Rusev</samp>
 
-
-<div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="https://giphy.com/embed/huyZxIJvtqVeRp7QcS" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/fire-messenger-notif-huyZxIJvtqVeRp7QcS">via GIPHY</a></p>
-
-
+<img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" width="40" height="40" />
 
 
 
