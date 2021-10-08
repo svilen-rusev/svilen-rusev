@@ -2,8 +2,7 @@
 
 <samp> My name is Svilen Rusev</samp>
 
-I am <img src="https://giphy.com/embed/du3J3cXyzhj75IOgvA" width="24">
-
+I am <iframe src="https://giphy.com/embed/du3J3cXyzhj75IOgvA" width="480" ></iframe>
 
 
 
