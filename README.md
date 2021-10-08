@@ -6,8 +6,7 @@ My name is Svilen Rusev from Sofia,Bulgaria 🇧🇬, currently I am imporoving 
 - 🌎 Love to travel and meet new people
 - 🏀 Passionate about basketball
 
-<a href="https://icons8.com/icon/ETDhNONw82Nc/java">Java icon by Icons8</a>
-<img src="https://icons8.com/icon/ETDhNONw82Nc/java" width="35">
+<link rel="stylesheet" href="https://code.iconify.design/css/arty-animated.css" />
 <!--
 **svilen-rusev/svilen-rusev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 <img src="https://media4.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e477252iyfwk8r83xxiez5ymcw6zgti5n2n0q0ds6bb&rid=giphy.gif&ct=g" width="34">
